@@ -64,7 +64,7 @@ ollama pull mxbai-embed-large
 
 ```bash
 git clone https://github.com/kawish918/CritiqueChain.git
-cd restaurant-qa-langchain
+cd CritiqueChain
 ```
 
 2. **Install dependencies**:
