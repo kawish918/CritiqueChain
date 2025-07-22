@@ -63,7 +63,7 @@ ollama pull mxbai-embed-large
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/restaurant-qa-langchain.git
+git clone https://github.com/kawish918/CritiqueChain.git
 cd restaurant-qa-langchain
 ```
 
